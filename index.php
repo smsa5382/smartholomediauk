@@ -87,7 +87,7 @@
                   <h3 class="u-text u-text-1"><b>1 MONTH IPTV</b>
                   </h3>
                   <h3 class="u-text u-text-2"> €10.00/MONTH</h3>
-                  <p class="u-text u-text-3"> Over 5000+ Ch<br>Live &amp; VOD <br>24/7 Live Channels <br>FHD &amp; HD Quality <br>All Devices Support <br>99.9% Uptime Servers <br>Instant Activation
+                  <p class="u-text u-text-3"> Over 11000+ Ch<br>Live &amp; VOD <br>24/7 Live Channels <br>FHD &amp; HD Quality <br>All Devices Support <br>99.9% Uptime Servers <br>Instant Activation
                   </p>
                   <a href="https://smartholomedia.com/index.php?rp=/store/subscriptions" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-1">Order Now</a>
                 </div>
@@ -97,7 +97,7 @@
                   <h3 class="u-text u-text-4"><b>3 MONTH IPTV</b>
                   </h3>
                   <h3 class="u-text u-text-5"> €25.00/3 MONTH </h3>
-                  <p class="u-text u-text-6"><b> Over 5000+ Ch<br>Live &amp; VOD <br>24/7 Live Channels <br>FHD &amp; HD Quality <br>All Devices Support <br>99.9% Uptime Servers <br>Instant Activation</b>
+                  <p class="u-text u-text-6"><b> Over 11000+ Ch<br>Live &amp; VOD <br>24/7 Live Channels <br>FHD &amp; HD Quality <br>All Devices Support <br>99.9% Uptime Servers <br>Instant Activation</b>
                   </p>
                   <a href="https://smartholomedia.com/index.php?rp=/store/subscriptions" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-2">Order Now</a>
                 </div>
@@ -107,7 +107,7 @@
                   <h3 class="u-align-center u-text u-text-7"><b>6 MONTH IPTV</b>
                   </h3>
                   <h3 class="u-align-center u-text u-text-8"> €45.00/ 6 MONTH</h3>
-                  <p class="u-align-center u-text u-text-9"><b> Over 5000+ Ch<br>&nbsp;Live &amp; VOD <br>24/7 Live Channels <br>FHD &amp; HD Quality <br>All Devices Support <br>99.9% Uptime Servers <br>Instant Activation</b>
+                  <p class="u-align-center u-text u-text-9"><b> Over 11000+ Ch<br>&nbsp;Live &amp; VOD <br>24/7 Live Channels <br>FHD &amp; HD Quality <br>All Devices Support <br>99.9% Uptime Servers <br>Instant Activation</b>
                   </p>
                   <a href="https://smartholomedia.com/index.php?rp=/store/subscriptions" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-3">Order Now</a>
                 </div>
@@ -117,7 +117,7 @@
                   <h2 class="u-text u-text-10"><b>1 YEAR IPTV</b>
                   </h2>
                   <h3 class="u-text u-text-11"> €65.00 / YEARLY</h3>
-                  <p class="u-text u-text-12"><b> Over 5000+ Ch<br>Live &amp; VOD <br>24/7 Live Channels <br>FHD &amp; HD Quality <br>All Devices Support <br>99.9% Uptime Servers <br>Instant Activation</b>
+                  <p class="u-text u-text-12"><b> Over 11000+ Ch<br>Live &amp; VOD <br>24/7 Live Channels <br>FHD &amp; HD Quality <br>All Devices Support <br>99.9% Uptime Servers <br>Instant Activation</b>
                   </p>
                   <a href="https://smartholomedia.com/index.php?rp=/store/subscriptions" class="u-btn u-btn-round u-button-style u-hover-palette-2-base u-palette-1-base u-radius-50 u-btn-4">Order Now</a>
                 </div>
